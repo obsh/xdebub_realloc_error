@@ -1,0 +1,5 @@
+# Editors
+.idea
+/build/coverage/*
+/build/logs/*
+/vendor/

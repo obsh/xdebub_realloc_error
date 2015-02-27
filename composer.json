@@ -1,0 +1,13 @@
+{
+    "name": "syneforge/xdebug-fault-case",
+    "authors": [
+        {
+            "name": "bushman",
+            "email": "bushman@syneforge.com"
+        }
+    ],
+    "require": {
+        "psr/log": "~1.0",
+        "phpunit/phpunit": "~4.5"
+    }
+}
